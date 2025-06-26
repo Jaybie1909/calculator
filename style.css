@@ -74,7 +74,7 @@ button:hover{
 }
 
 body {
-  background-image: url('images/images3.jpg'); /* or use 'images/bg.png' if in subfolder */
+  background-image: url('images3.jpg'); /* or use 'images/images3.jpg' if in subfolder */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
